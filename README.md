@@ -1,4 +1,7 @@
-# api documentation for  [store (v2.0.4)](https://github.com/marcuswestin/store.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-store.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-store.svg)](https://travis-ci.org/npmdoc/node-npmdoc-store)
+# npmdoc-store
+
+#### api documentation for  [store (v2.0.4)](https://github.com/marcuswestin/store.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-store.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-store) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-store.svg)](https://travis-ci.org/npmdoc/node-npmdoc-store)
+
 #### A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
 
 [![NPM](https://nodei.co/npm/store.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/store)
@@ -106,7 +109,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "2.0.4"
+    "version": "2.0.4",
+    "bin": {}
 }
 ```
 
